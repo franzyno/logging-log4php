@@ -1,2 +1,3 @@
-target
-temp
+/vendor/
+/composer.lock
+/.idea/
